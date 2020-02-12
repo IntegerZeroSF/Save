@@ -20,11 +20,19 @@ a {
 
 h1 {
     text-align: center;
-    padding-bottom: 10px;
+    padding-bottom: 20px;
+    padding-top: 0;
 }
 
 .block {
     margin: 20px;
+}
+
+.title {
+    font-family: fantasy;
+    font-style: oblique;
+    text-decoration: underline;
+    font-size: 75px
 }
 
 a.buttonNav {
